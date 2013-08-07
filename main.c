@@ -1,1 +1,12 @@
-#include<stdio.h>
+sa
+sad
+sad
+dsad
+asd
+asd
+a
+sda
+sd
+as
+d
+a#include<stdio.h>
